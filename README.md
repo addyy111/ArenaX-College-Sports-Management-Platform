@@ -16,6 +16,45 @@
 * **Booking & Issuance Approval:** Monitor and manage facility bookings and equipment checkout/check-in operations.
 * **Facility Management:** Add, update, or temporarily disable facilities and slots for maintenance or official college sports events.
 
+## 🛠️ Technology Stack
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Backend
+
+* Python
+* Django
+* Django REST Framework (DRF)
+
+### Database
+
+* MySQL
+
+### Tools & Utilities
+
+* Git & GitHub
+* Visual Studio Code
+* Postman (API Testing)
+
+## 📁 Project Structure
+
+```text
+ArenaX-College-Sports-Management-Platform/
+│
+├── backend/                  # Django & Django REST Framework APIs
+│
+├── frontend/                 # React.js web portal UI
+│
+├── README.md                 # Project documentation
+│
+└── .gitignore                # Git ignore rules
+```
+
 ## 🔄 Development Workflow
 
 The project is developed collaboratively using Git and GitHub following a standard feature-branch workflow:
