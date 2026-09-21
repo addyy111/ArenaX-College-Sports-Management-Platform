@@ -2,7 +2,7 @@
 
 **ArenaX** is a comprehensive college sports management platform designed to streamline sports facility slot bookings, sports equipment issuance, and overall sports inventory management within educational institutions.
 
-## 🌟 Key Features
+## 🌟 Key Features of Project 
 
 ### 🎓 Student Portal
 
@@ -15,3 +15,4 @@
 * **Inventory Management:** Manage sports equipment stock, including adding new items, tracking availability, and marking damaged assets.
 * **Booking & Issuance Approval:** Monitor and manage facility bookings and equipment checkout/check-in operations.
 * **Facility Management:** Add, update, or temporarily disable facilities and slots for maintenance or official college sports events.
+
